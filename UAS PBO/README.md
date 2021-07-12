@@ -8,6 +8,3 @@
 ![image](https://user-images.githubusercontent.com/75378331/125214948-e9a09180-e2e3-11eb-96bd-758ca041e02a.png)
 
 
-## Penjelasan Alur Program
-
-file penjelasan alur program:
