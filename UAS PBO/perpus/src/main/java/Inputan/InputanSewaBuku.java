@@ -1,6 +1,6 @@
 /*
-Nama: Rafika Fitri Hidayati
-Nim: A11.2019.11769
+Nama: Muhammad Naufal Firdana Trisya
+Nim: A11.2019.11671
 Kelas: A11.4423
  */
 package Inputan;
@@ -26,7 +26,7 @@ import Interfaces.InterfacesSewaBuku; /*Untuk memanggil InterfaceSewaBuku.java d
 
 /**
  *
- * @author Fitri
+ * @author Firdana
  */
 public class InputanSewaBuku implements InterfacesSewaBuku{
      Connection con = Koneksi.GetConnection();

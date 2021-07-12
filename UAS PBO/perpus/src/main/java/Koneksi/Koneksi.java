@@ -1,6 +1,6 @@
 /*
-Nama: Rafika Fitri Hidayati
-Nim: A11.2019.11769
+Nama: Muhammad Naufal Firdana Trisya
+Nim: A11.2019.11671
 Kelas: A11.4423
  */
 package Koneksi;
@@ -10,7 +10,7 @@ import java.sql.Connection;/*Untuk memanggil package sql Connection pada java */
 import java.sql.SQLException;/*/*Untuk memanggil package sql SQLException pada java */
 /**
  *
- * @author Fitri
+ * @author Firdana
  */
 public class Koneksi {
     static Connection con;

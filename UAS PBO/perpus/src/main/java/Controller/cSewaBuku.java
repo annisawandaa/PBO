@@ -1,6 +1,6 @@
 /*
-Nama: Rafika Fitri Hidayati
-Nim: A11.2019.11769
+Nama: Muhammad Naufal Firdana Trisya
+Nim: A11.2019.11671
 Kelas: A11.4423
  */
 package Controller;

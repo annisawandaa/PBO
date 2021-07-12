@@ -1,6 +1,6 @@
 /*
-Nama: Rafika Fitri Hidayati
-Nim: A11.2019.11769
+Nama: Muhammad Naufal Firdana Trisya
+Nim: A11.2019.11671
 Kelas: A11.4423
  */
 package Interfaces;
@@ -10,7 +10,7 @@ import java.util.List; /*Untuk memanggil package List pada java */
 
 /**
  *
- * @author Fitri
+ * @author Firdana
  */
 public interface InterfacesSewaBuku {
     public List<mTable> GetAll();
